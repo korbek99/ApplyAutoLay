@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  ApplyAutoLay
+
+  Created by Jose Preatorian on 05-12-24.
+  
+*/
+
+
+ERROR_TITLE = "Oops!.. An unexpected error has occurred.";
+ERROR_TITLE_EXP = "An unexpected error has occurred.";
+
+HIT_VC_ERROR_AUTOR = "Title no has Author";
+HIT_VC_ERROR_CONTEXT = "Title no has Context";
+
+TABLE_ERROR_IDENTI = "An error occurred with identifier";
+TABLE_ERROR_URL = "The URL is invalid or not present.";
+
+INFO_PLIST_ERROR = "ERROR: No se encontró archivo endpoints.plist";
+
+INFO_PLIST_ERROR_END = "ERROR: No existe endpoint con el nombre";

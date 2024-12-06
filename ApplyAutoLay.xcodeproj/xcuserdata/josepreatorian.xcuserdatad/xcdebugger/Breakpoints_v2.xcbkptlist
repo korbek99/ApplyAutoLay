@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8F9F496-C627-4263-813A-BEE371CE7E7C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB9CDD35-270C-4876-8E18-D7CA239BD94E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/Service/webService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55A164BF-3052-4AAD-903A-389CECEAE156"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/Service/webService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "220E98AB-42E3-4DFA-B535-886CBBA6E379"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/Service/webService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "220E98AB-42E3-4DFA-B535-886CBBA6E379 - a35a8423eed9777d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApplyAutoLay.webServicesHits.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;ApplyAutoLay.Hit&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApplyAutoLay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/ApplyAutoLay/ApplyAutoLay/Service/webService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "472">
+               </Location>
+               <Location
+                  uuid = "220E98AB-42E3-4DFA-B535-886CBBA6E379 - a35a8423eed9777d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApplyAutoLay.webServicesHits.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;ApplyAutoLay.Hit&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApplyAutoLay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/ApplyAutoLay/ApplyAutoLay/Service/webService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "544">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6A4FF34-A925-462B-92C7-2A7159E1FDF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/Service/webService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E6A4FF34-A925-462B-92C7-2A7159E1FDF5 - a35a8423eed97490"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApplyAutoLay.webServicesHits.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;ApplyAutoLay.Hit&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApplyAutoLay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/ApplyAutoLay/ApplyAutoLay/Service/webService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "E6A4FF34-A925-462B-92C7-2A7159E1FDF5 - a35a8423eed97490"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApplyAutoLay.webServicesHits.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;ApplyAutoLay.Hit&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApplyAutoLay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/ApplyAutoLay/ApplyAutoLay/Service/webService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "904">
+               </Location>
+               <Location
+                  uuid = "E6A4FF34-A925-462B-92C7-2A7159E1FDF5 - a35a8423eed97490"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ApplyAutoLay.webServicesHits.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;ApplyAutoLay.Hit&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "ApplyAutoLay"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/ApplyAutoLay/ApplyAutoLay/Service/webService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "960">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94C74E8F-0E24-4F78-A6A2-167B906A84C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/View/Hits/HitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "HitsViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0111A32A-251A-4930-977A-71A2390DC01B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/View/Hits/HitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2C105DD-AB85-493E-B02B-EF131FA2C332"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/View/Hits/HitsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD5732B5-4CCA-4BDF-99FE-A65830209843"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/View/Web/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "webView(_:didFail:withError:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B925751-000E-4AEA-A655-565D2F228071"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ApplyAutoLay/View/Web/WebViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "webView(_:didFinish:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
